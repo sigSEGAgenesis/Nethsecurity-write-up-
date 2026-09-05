@@ -558,7 +558,7 @@ to claude code, apparently: good work on that patch, buddy.
 
     CVE pending via MITRE for finding 4 (command injection).
     fix: https://github.com/NethServer/nethsecurity/pull/1841
-    findings 1, 2, 3, and 5 remain unpatched at time of writing.
+    
 
 ------------------------------------------------------------------------
 
